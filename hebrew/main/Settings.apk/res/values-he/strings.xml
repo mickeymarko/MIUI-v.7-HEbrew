@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Accounts_settings_title">Accounts</string>
-  <string name="about_settings">About phone</string>
+  <string name="Accounts_settings_title">חשבונות</string>
+  <string name="about_settings">אודות הטלפון</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="ac_enable_summary">Password will be required to open the app</string>
   <string name="ac_enable_title">App Lock</string>
